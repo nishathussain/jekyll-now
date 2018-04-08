@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-My name is Mohammd Nishat Hussain, Interested in Machine Learning, Blockchain, and IOT stuffs.
+Myself Mohammd Nishat Hussain, Interested in Machine Learning, Blockchain, and IOT stuffs.
 
-### More Information
+### Motivation
 
-A place to include any other types of information that you'd like to include about yourself.
+I will post my ML work here.
 
 ### Contact me
 
