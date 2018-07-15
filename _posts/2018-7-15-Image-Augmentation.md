@@ -14,7 +14,7 @@ Types of Augmentation: There are various types of augmentation possible but each
 **Zoom**: Zoom is one of the augmentation which works for almost all as Convolutional neural networks are bad in learning scales unless specified.  
 **Rotation**: Keep in mind how much rotation is Ok for the task, e.g. It is better to not rotate too much for some objects like hmm.. Tree maybe . 
 **Shift**: horizontal and vertical shifts make sure you object of interest is still inside. Shift don’t help much though with Convolutional nets.  
-**Sheer**: Shift can be applied in both Width and Height. For some cases sheer is not correct, just take a dummy case "<span style="color: green"> training a network to learn a square shape </span>”, sheer will destroy the main idea behind a square. example: training a network on facial landmark. excellent augmentation but make sure you have things in limit. For blood segmentation its a good augmentation.   
+**Sheer**: Shift can be applied in both Width and Height. For some cases sheer is not correct, just take a dummy case "<span style="color: red"> training a network to learn a square shape </span>”, sheer will destroy the main idea behind a square. example: training a network on facial landmark. excellent augmentation but make sure you have things in limit. For blood segmentation its a good augmentation.   
 **Channel Shift**: Channel shift works well for many objects like cars, mug etc as they can be of any colour and it works well in training.  
 **Flip**: Horizontal and vertical flip.   
   
