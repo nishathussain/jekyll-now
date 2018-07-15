@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Importance and ways to Augment an Image for segmentation task
+title: Importance of image Augmentation in deep learning
 ---
 
 Medical Image segmentation is an important task in life-science. Counting cell in a blood slide is very time consuming and tedious.
